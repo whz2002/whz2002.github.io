@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages!
 
 You can use the [editor on GitHub](https://github.com/whz2002/whz2002.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -39,3 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Donations
 
 Feel free to donate to me! qwqwq
+
+![IMG_4739.JPG](https://i.loli.net/2021/09/01/UxNu2bwATRBYWfl.jpg)
