@@ -41,3 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 Feel free to donate to me! qwqwq
 
 ![IMG_4739.JPG](https://i.loli.net/2021/09/01/UxNu2bwATRBYWfl.jpg)
+
+### Friends
+
+[X. Wei](https://eipi15926.github.io)
