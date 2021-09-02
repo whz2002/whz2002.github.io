@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages!
+## Welcome to GitHub Pages!
 
 You can use the [editor on GitHub](https://github.com/whz2002/whz2002.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -44,4 +44,4 @@ Feel free to donate to me! qwqwq
 
 ### Friends
 
-[X. Wei](https://eipi15926.github.io)
+[wxy dalao](https://eipi15926.github.io)
