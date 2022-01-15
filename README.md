@@ -36,6 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+### Coursewares
+Here are some of the coursewares I prepared.
+
 ### Donations
 
 Feel free to donate to me! qwqwq
@@ -44,4 +47,4 @@ Feel free to donate to me! qwqwq
 
 ### Friends
 
-[wxy dalao](https://eipi15926.github.io)
+[Xinyue Wei Dalao](https://eipi15926.github.io)
