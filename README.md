@@ -47,4 +47,4 @@ Feel free to donate to me! qwqwq
 
 ### Friends
 
-[Xinyue Wei Dalao](https://eipi15926.github.io)
+[wxy dalao](https://eipi15926.github.io)
